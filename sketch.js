@@ -22,9 +22,9 @@ function preload(){
   obstacle6_img = loadImage("obstacle6.png");
   gameOver_img = loadImage("gameOver.png");
   restart_img = loadImage("restart.png");
-  checkSound = loadSound("Sounds/checkPoint.mp3");
-  dieSound  = loadSound("Sounds/die.mp3");
-  jumpSound  = loadSound("Sounds/jump.mp3");
+  checkSound = loadSound("checkPoint.mp3");
+  dieSound  = loadSound("die.mp3");
+  jumpSound  = loadSound("jump.mp3");
 
 }
 
